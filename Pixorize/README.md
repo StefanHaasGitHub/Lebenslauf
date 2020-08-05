@@ -32,7 +32,7 @@ Benutzer offen und frei, wie er die Kleidung, der im Bild vorhandenen Personen
 färbt, welche Farbe die Landschaft im Hintergrund, etc. erhält.
 Das Hauptaugenmerk von Pixorize: Der Gestaltungskraft der Benutzerin/des
 Benutzers freien Lauf zu lassen und demzufolge die Mannigfaltigkeit der entstehenden Resultat-Bilder zu gewährleisten.
-
+ 
 
 ## Resultate
 
