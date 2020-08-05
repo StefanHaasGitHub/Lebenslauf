@@ -20,8 +20,8 @@ fehlt der fur den Menschen wichtigste Teil: Farbe.
 Schon des Ofteren kam der Gedanke, wie beispielsweise die Hochzeits-Fotos, Porträts oder sonstige Schwarz-Weiß-Fotos der Familie in Farbe aussehen wurden.
 Leider stellte sich die Kolorierung von Eigenhand in Programmen wie Photoshop, aber auch analog, am eigentlichen Schwarz-Weiß-Foto, als eine große
 Herausforderung heraus. Auch die Alternative, sich die Schwarz-Weiß-Fotos von
-professionellen Anbietern färben zu lassen, stellt keine L¨osung dar: Hierbei muss
-man mit hohen Kosten rechnen. Des Weiteren ist nicht gew¨ahrleistet, dass das
+professionellen Anbietern färben zu lassen, stellt keine Lösung dar: Hierbei muss
+man mit hohen Kosten rechnen. Des Weiteren ist nicht gewährleistet, dass das
 Ergebnis den eigenen Vorstellungen schlussendlich entspricht.
 Die Diplomarbeit Pixorize beschäftigt sich mit einem neuen Ansatz, SchwarzWeiß-Fotos zu kolorieren - sprich beispielsweise alte Familien-Fotos und Porträts
 von großen Persönlichkeiten der Geschichte, welche alle in Form von SchwarzWeiß-Bildern vorliegen, in Farbe und somit in neuem Glanz erscheinen zu lassen.
